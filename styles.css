@@ -9,10 +9,7 @@
     
      
 }
-#image{
-    border-radius: 50%;
-    float: left;
-}
+
 ul {
     margin-top: 5px;
     padding: 0px;
@@ -45,4 +42,9 @@ ul li ul li{
 }
 ul li:hover ul li {
     display: block;
+}
+#image{
+    float: left;
+    
+
 }
