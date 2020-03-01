@@ -60,5 +60,6 @@ ul li:hover ul li {
 
 }
 #customer-orders{
-color: lawngreen;
+color: maroon;
+background-color: mediumaquamarine;
 }
