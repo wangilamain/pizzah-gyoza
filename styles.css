@@ -62,4 +62,5 @@ ul li:hover ul li {
 #customer-orders{
 color: maroon;
 background-color: mediumaquamarine;
+text-align: center;
 }
