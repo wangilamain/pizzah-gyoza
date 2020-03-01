@@ -11,10 +11,21 @@
 }
 
 ul {
-    margin-top: 5px;
-    padding: 0px;
+    margin-top: 0px;
+    padding-top: 0;
     list-style: none;
-    position: fixed;
+    float: right;
+    color:maroon;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+#navbar{
+    background-color: maroon;
+    overflow: hidden;
+
 }
 ul li {
     float: left;
