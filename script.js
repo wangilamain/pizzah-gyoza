@@ -28,7 +28,7 @@ $(document).ready(function(){
     alert("Please enter your sizes")
     let Total= pricing + 150;
      Total = Total*this.number
-      var delivery = prompt("Would you like to your delivery to pickup from the delivery and hand delivery ?")
+      var delivery = prompt("Would you like  to pickup from our location or have it delivered ?")
        if( delivery === "pickup"){
          alert("Thank you for choosing pizza gyoza")
        }
