@@ -145,6 +145,7 @@
                           <option value="medium">Medium</option>
                           <option value="large">Large</option>
                         </select><br><br>
+                        <input type="number" id="number">Number<br><br>
                         <label for="order more">Order again</label>
                         <select name="form head" id="Order more">
                           <option value="Order more">Order more</option>
@@ -153,13 +154,20 @@
                         <select name="form head" id="cancel">
                           <option value="cancel">Cancel</option>
                         </select><br><br>
-                        <select name="delivery" id=""Delivery>
-                          <option value="Delivery">Delivery</option>
-                          <option value="pick up">PIck up</option>
-                        </select>
+                        <p>Do you want your pizza delivered?</p>
+                        <button name="delivery" id=""Delivery>
+                          <button value="YES" id="deliver">YES</button>
+                          <button value="NO" id="pick">NO</button>
+                        </button>
+                        <button type="button" id="calc">Submit order</button>
                     </form>
+                    
                 </div>
+                <div class="Price">
+                  <p id="total"></p>
+                  <p id="place"></p>
 
+                </div>
             </div>
             <div id="contact-section">
               <h1>Contact Us Page</h1>
@@ -169,7 +177,7 @@
             
             <h2 style="text-align:center">Our Team</h2>
             <div class="row">
-              <div class="column">
+              <div class="col-md-4">
                 <div class="card">
                   <div id="container">
                     <h2>Sharon Wawira</h2>
@@ -181,7 +189,7 @@
                 </div>
               </div>
             
-              <div class="column">
+              <div class="col-md-4">
                 <div class="card">
                   <div id="container">
                     <h2>Jenifer Wanjiku</h2>
@@ -193,7 +201,7 @@
                 </div>
               </div>
             
-              <div class="column">
+              <div class="col-md-4">
                 <div class="card">
                   <div id="container">
                     <h2>Theodore Almasi</h2>
