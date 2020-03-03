@@ -16,7 +16,7 @@ Sharon Wawira
  * JQuery
  ## BDD
 ## Known Bugs
-* No bug detected but if you find one feel share it so that I can debug it
+* No bug detected.
 ## License
  MIT License &copy|Sharon
 ## Collaborate
