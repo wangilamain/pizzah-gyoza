@@ -6,7 +6,7 @@ Sharon Wawira
  ## Setup.
 > git clone the application.
 ``extract the file``
-``cd to the Biphyl-Pizza-inn directory``
+``cd to the Pizzah-gyoza directory``
 > ``Open the index.html on your favorable browser``
 ## Technologies used.
  * HTML5
